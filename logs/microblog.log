@@ -39,3 +39,6 @@ Traceback (most recent call last):
     ) from exc
 Exception: Install 'email_validator' for email validation support.
 2025-07-17 15:49:51,572 INFO: Microblog startup [in C:\Users\ESTUDIANTE\Desktop\blogporquenohagonada\blog_1\app\__init__.py:43]
+2025-07-24 14:52:14,645 INFO: Microblog startup [in C:\Users\ESTUDIANTE\Desktop\blogporquenohagonada\blog_1\app\__init__.py:43]
+2025-07-24 14:56:59,566 INFO: Microblog startup [in C:\Users\ESTUDIANTE\Desktop\blogporquenohagonada\blog_1\app\__init__.py:43]
+2025-07-24 15:05:16,465 INFO: Microblog startup [in C:\Users\ESTUDIANTE\Desktop\blogporquenohagonada\blog_1\app\__init__.py:43]
