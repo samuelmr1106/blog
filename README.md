@@ -3,7 +3,7 @@ Blog con Flask - Proyecto Educativo
 
 Proyecto creado por el Profe Henry
 Este es un blog educativo desarrollado con Flask para que los alumnos aprendan desarrollo web backend.
-🚀 Requisitos Previos
+🚀 Requisitos Previo
 
 Antes de comenzar, asegúrate de tener instalado en tu Windows:
 
